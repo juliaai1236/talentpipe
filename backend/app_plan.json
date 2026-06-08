@@ -1,0 +1,47 @@
+{
+  "app_type": "saas_dashboard",
+  "app_name": "TalentPipe",
+  "tagline": "Cut time-to-hire from 45 to 12 days with AI-powered recruitment",
+  "primary_color": "#1E3A5F",
+  "accent_color": "#00B4D8",
+  "sections": [
+    "Hero",
+    "Features",
+    "How It Works",
+    "Pricing",
+    "Testimonials",
+    "CTA"
+  ],
+  "backend_resources": [
+    "resumes",
+    "job_requirements",
+    "interviews",
+    "candidates",
+    "users"
+  ],
+  "features": [
+    "auto-screens resumes against job requirements",
+    "schedules interviews via calendar integration",
+    "tracks the full candidate pipeline from application to offer"
+  ],
+  "pricing_tiers": [
+    "Pay-per-hire: $299 per successful placement",
+    "Flat: $199/mo for unlimited active roles"
+  ],
+  "target_customer": "startups and SMBs",
+  "key_metric": "cuts average time-to-hire from 45 days to 12 days",
+  "hero_stats": [
+    {
+      "value": "45 to 12",
+      "label": "Days to hire"
+    },
+    {
+      "value": "$299",
+      "label": "Per successful placement"
+    },
+    {
+      "value": "$199/mo",
+      "label": "For unlimited roles"
+    }
+  ]
+}
